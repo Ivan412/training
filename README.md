@@ -1,7 +1,7 @@
 # training
 ### Продвинутый Python. Часть 1: анализ данных.  
 Numpy и Pandas.
-Задание - [импорт данных](https://github.com/Ivan412/training/blob/1eff62bcdc607df5bd2e61e04d649f9310429d23/6_python_advaced/1_analysis/task1.ipynb)    
+Задание - [импорт данных](https://github.com/Ivan412/training/blob/1eff62bcdc607df5bd2e61e04d649f9310429d23/6_python_advaced/1_analysis/task1.ipynb "Возьмите данные по вызовам пожарных служб в Москве за 2015-2019 годы. Получите из них фрейм данных (таблицу значений). По этому фрейму вычислите среднее значение вызовов пожарных машин в месяц в одном округе Москвы, округлив до целых.")    
 Индексы и объединение фреймов.
 Задание - [данные из нескольких источников](https://github.com/Ivan412/training/blob/1eff62bcdc607df5bd2e61e04d649f9310429d23/6_python_advaced/1_analysis/task2.ipynb)  
 Фильтрация и изменение данных.
