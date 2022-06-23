@@ -36,8 +36,8 @@ Numpy и Pandas.
 
 ### Продвинутый Python. Часть 4: отчеты и автоматизация.  
 Работа с PDF.
-Задание - [сборка PDF документа](6_python_advaced/4_reports and automation/task1.ipynb)  
+Задание - [сборка PDF документа](6_python_advaced/4_reports%20and%20automation/task1.ipynb)  
 Базовые отчеты.
-Задание - [геральдические символы Москвы](6_python_advaced/4_reports and automation/task2.ipynb)  
+Задание - [геральдические символы Москвы](6_python_advaced/4_reports%20and%20automation/task2.ipynb)  
 Генерация отчетов.
-Задание - [многостраничный отчет](6_python_advaced/4_reports and automation/task3.ipynb)
+Задание - [многостраничный отчет](6_python_advaced/4_reports%20and%20automation/task3.ipynb)
