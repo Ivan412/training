@@ -1,4 +1,3 @@
-# training
 ## Продвинутый Python. Часть 1: анализ данных.  
 <details>
   <summary>Numpy и Pandas</summary>
