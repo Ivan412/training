@@ -246,7 +246,7 @@
     
   </details>
   
-[Решение:]6_python_advaced/4_reports%20and%20automation/task1.ipynb)
+[Решение:](6_python_advaced/4_reports%20and%20automation/task1.ipynb)
 1. Скачаем титульную страницу, шрифт и установим необходимые модули.
 2. Загрузим данные, отбросим не нужные столбцы.
 3. Создадим поле District с легкочитабельным названием района.
