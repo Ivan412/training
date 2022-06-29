@@ -286,7 +286,7 @@
     
   </details>
   
-[Решение:](6_python_advaced/4_reports%20and%20automation/task2.ipynb)
+[Решение:](6_python_advaced/4_reports%2Fand%2Fautomation/task2.ipynb)
 1. Установим wkhtmltopdf и pdfkit.
 2. Составим html шаблон отчета.
 3. Загрузим данные по паркам, отбросим лишние столбцы, извлечем названия парков.
@@ -306,7 +306,7 @@
     
   </details>
   
-[Решение:](6_python_advaced/4_reports%20and%20automation/task4.ipynb)
+[Решение:](6_python_advaced/4_reports%2Fand%2Fautomation/task4.ipynb)
 1. Установим wkhtmltopdf.
 2. Составим html шаблон отчета.
 3. Загрузим данные по ЕГЭ, оставим нужные нам поля и годы.
